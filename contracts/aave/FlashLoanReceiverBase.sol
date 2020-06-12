@@ -2,7 +2,6 @@ pragma solidity ^0.6.6;
 
 import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC20/IERC20.sol";
 import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/ERC20/SafeERC20.sol";
-import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/token/math/SafeMath.sol";
 
 import "./IFlashLoanReceiver.sol";
 import "./ILendingPoolAddressesProvider.sol";
